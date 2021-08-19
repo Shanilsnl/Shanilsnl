@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shanilsnl
+- 👋 Hi, I’m @Muhammed_Shanil_Rahman
 - 👀 I’m interested in front end developing
 - 🌱 I’m currently learning full stack development python/django
 - 💞️ I’m looking to collaborate on ...
